@@ -2,6 +2,11 @@
 
 baseURL: https://les-pollinisateurs.cinemaginaction.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 37c12b16-e7ab-4231-b9ec-41bec98987f0
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
